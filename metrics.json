@@ -1,0 +1,36 @@
+{
+  "data": "synthetic Gaussian profiles with additive Gaussian noise",
+  "seed": 42,
+  "runs": [
+    {
+      "run_id": "run_1",
+      "amplitude": 0.9958834809633698,
+      "center_mm": 0.0004343489833018652,
+      "sigma_mm": 0.4003254763827178,
+      "offset": 0.08026354431857789,
+      "fwhm_mm": 0.9426944563225879,
+      "residual_rmse": 0.008697614170109867,
+      "fwhm_fit_standard_error_mm": 0.002629026913405511
+    },
+    {
+      "run_id": "run_2",
+      "amplitude": 1.001657427205417,
+      "center_mm": 0.051119738180764936,
+      "sigma_mm": 0.5504855876541105,
+      "offset": 0.07960270753634366,
+      "fwhm_mm": 1.296294496308541,
+      "residual_rmse": 0.010105198885522889,
+      "fwhm_fit_standard_error_mm": 0.0037556208552429636
+    },
+    {
+      "run_id": "run_3",
+      "amplitude": 1.000514974034903,
+      "center_mm": 0.09937578940678554,
+      "sigma_mm": 0.7018899587329429,
+      "offset": 0.07844602913447957,
+      "fwhm_mm": 1.6528245442302798,
+      "residual_rmse": 0.010138077671216507,
+      "fwhm_fit_standard_error_mm": 0.004610481395523735
+    }
+  ]
+}
